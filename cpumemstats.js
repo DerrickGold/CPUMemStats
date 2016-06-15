@@ -38,7 +38,7 @@ var CpuMemStats = function() {
 
 	    
 	    cpubars.push(level);
-	    $("#SysInfo2").append(container);
+	    $("#CPUMemStats").append(container);
 	    
 	}
     }
